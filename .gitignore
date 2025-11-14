@@ -20,3 +20,14 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+# Игнорируемые файлы IDE
+.idea/
+*.iml
+
+# Игнорируемые бинарники компилятора
+bin/*
+obj/*
+
+# Скрытые временные файлы ОС Windows
+Thumbs.db
+.DS_Store
